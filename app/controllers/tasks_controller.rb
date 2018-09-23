@@ -1,0 +1,2 @@
+class TasksController < ApiController
+end
